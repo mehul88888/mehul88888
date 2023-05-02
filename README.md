@@ -1,16 +1,46 @@
-### Hi there 👋
+# 💫 About Me:
+As a React JS developer with 3+ years of experience, I have a strong understanding of the React library and its core concepts such as components, state management, and lifecycle methods. I worked with popular React-related technologies such as Redux, React Router, and Jest/Enzyme for testing.
 
-<!--
-**mehul88888/mehul88888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🧑‍🎨 Artistry:
 
-Here are some ideas to get you started:
+### Programming Languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<pre>
+🏆 JavaScript
+🏆 TypeScript
+</pre>
+
+### Frontend Development:
+
+<pre>
+🏆 Angular        🏆 Angular.js       🏆 Bootstrap        🏆 Chart.js       🏆 Chakra       🏆 Sass
+🏆 NodeJS         🏆 NextJS           🏆 NPM              🏆 React Native   🏆 Redux        🏆 JWT 
+🏆 Gatsby         🏆 MUI              🏆 React            🏆 Socket.io      🏆 Webpack      🏆 ESLint
+🏆 Swagger        🏆 Babel            🏆 React Router     🏆 MUI            🏆 ANTD
+</pre>
+
+### Agile Board
+
+<pre>
+🏆 Trello         🏆 Jira             🏆 Basecamp 
+</pre>
+
+### Backend Development
+
+<pre>
+🏆 graphql        🏆 node.js          🏆 Express.js       🏆 Docker         🏆 AWS
+</pre>
+
+
+# 📞 You can contact me:
+<pre>
+Email: mehul888@protonmail.com
+</pre>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mehul88888&theme=merko&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mehul88888&theme=merko&hide_border=true)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mehul88888&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
