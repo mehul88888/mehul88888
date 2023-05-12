@@ -6,29 +6,28 @@ As a React JS developer with 3+ years of experience, I have a strong understandi
 ### Programming Languages:
 
 <pre>
-🏆 JavaScript
-🏆 TypeScript
+🏆 JavaScript      🏆 TypeScript
 </pre>
 
 ### Frontend Development:
 
 <pre>
-🏆 Angular        🏆 Angular.js       🏆 Bootstrap        🏆 Chart.js       🏆 Chakra       🏆 Sass
-🏆 NodeJS         🏆 NextJS           🏆 NPM              🏆 React Native   🏆 Redux        🏆 JWT 
-🏆 Gatsby         🏆 MUI              🏆 React            🏆 Socket.io      🏆 Webpack      🏆 ESLint
-🏆 Swagger        🏆 Babel            🏆 React Router     🏆 MUI            🏆 ANTD
+🏆 React           🏆 React Router        🏆 React Native           🏆 ANTD             🏆 MUI            🏆 Bootstrap         
+🏆 NodeJS          🏆 NextJS              🏆 NPM                    🏆 Redux            🏆 JWT            🏆 ESLint
+🏆 Gatsby          🏆 MUI                 🏆 Angular.js             🏆 Socket.io        🏆 Webpack        🏆 Chart.js
+🏆 Swagger         🏆 Babel               🏆 Sass                   🏆 Chakra
 </pre>
 
 ### Agile Board
 
 <pre>
-🏆 Trello         🏆 Jira             🏆 Basecamp 
+🏆 Trello          🏆 Jira                🏆 Basecamp 
 </pre>
 
 ### Backend Development
 
 <pre>
-🏆 graphql        🏆 node.js          🏆 Express.js       🏆 Docker         🏆 AWS
+🏆 graphql         🏆 node.js             🏆 Express.js             🏆 Docker           🏆 AWS
 </pre>
 
 
